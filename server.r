@@ -4,7 +4,7 @@ library(tm)
 library(wordcloud)
 library(gridExtra)
 library(ggExtra)
-setwd("/Users/justinhilliard/Desktop/BartendersShinyApp")
+setwd("/Users/justinhilliard/Documents/16Spring/36315/BartendersShinyApp/")
 
 profiles <- read.csv("profiles.csv", 
                      header=TRUE)
